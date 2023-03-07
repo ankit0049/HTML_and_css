@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+.con
+{
+    width: 4000px;;
+    height: 250vh;
+    background: linear-gradient(to bottom right, red,rgb(255, 192, 203,0.7));
+}  
+.box
+{   width: 100px;
+    border:2px solid black; 
+    background-color: red;
+}
